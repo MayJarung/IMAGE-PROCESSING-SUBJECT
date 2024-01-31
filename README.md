@@ -1,2 +1,1 @@
-IMAGE-PROCESSING
-;-; อะเฮื่ออออออออออออออออ 0.0
+Lab of IMAGE-PROCESSING Subject
